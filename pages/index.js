@@ -12,11 +12,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>[Your Self Introduction]</p>
-        <p>
-          (This is a sample website - you’ll be building a site like this in{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
-        </p>
+        <p>I have a civil engineering background but recently i was looking to become a professional software developer. I already have a good knowledge in javaScript, nodejs, python, Jupiter notebooks and django  because I joined a full-stack software development intensive bootcamp with ASAC. But I still want to have a wider knowledge in the programming field. My next step is to find the suitable environment to sharpen my skills. In fact, my background was really helpful to develop the skills that were required in the tech field so it wasn't a hard step to switch between them. so basically this is who i am.</p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
